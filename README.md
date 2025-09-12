@@ -2,12 +2,12 @@
 # Introduction 
 This a bash script to can analyse basic server performance stats. 
 
-Uptime
-Total CPU usage
-Total memory usage 
-Total disk usage 
-Top 5 processes by CPU usage
-Top 5 processes by memory usage
+1. Uptime
+2. Total CPU usage
+3. Total memory usage 
+4. Total disk usage 
+5. Top 5 processes by CPU usage
+6. Top 5 processes by memory usage
 
 ## Usage
 chmod +x server-stats.sh
