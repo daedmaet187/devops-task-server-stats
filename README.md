@@ -1,5 +1,4 @@
-#devops-task-server-stats
-url:https://github.com/daedmaet187/devops-task-server-stats
+https://github.com/daedmaet187/devops-task-server-stats
 # Introduction 
 This a bash script to can analyse basic server performance stats. 
 
