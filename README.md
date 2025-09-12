@@ -1,4 +1,4 @@
-https://github.com/daedmaet187/devops-task-server-stats
+https://roadmap.sh/projects/server-stats
 # Introduction 
 This a bash script to can analyse basic server performance stats. 
 
