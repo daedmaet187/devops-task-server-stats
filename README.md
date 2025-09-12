@@ -10,5 +10,5 @@ This a bash script to can analyse basic server performance stats.
 6. Top 5 processes by memory usage
 
 ## Usage
-chmod +x server-stats.sh
-./server-stats.sh
+- chmod +x server-stats.sh
+- ./server-stats.sh
