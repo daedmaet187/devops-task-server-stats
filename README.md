@@ -1,7 +1,7 @@
 https://roadmap.sh/projects/server-stats
 
 # Introduction
-This a bash script to can analyse basic server performance stats. 
+This a bash script which can analyse basic server performance stats using awk and top.
 
 1. Uptime
 2. Total CPU usage
